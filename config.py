@@ -1,0 +1,16 @@
+BOT_TOKEN = '5153989700:AAGKKS7HQ0cVukh-n6fcQrH0JRm7ZrMvPQw'
+API_ID = 14681595
+API_HASH = 'a86730aab5c59953c424abb4396d32d5'
+
+
+# DATOS DEL MOODLE
+USUARIO = 'Lokodas'
+PASSWORD = 'Yeni@#1212'
+USUARIO_ID = 19816
+ZIP_MB = 399
+MOODLE_URL = 'https://moodle.uclv.edu.cu/'
+OWNER = [1759969205]
+
+# CUENTA DE MEGA
+GMAIL_MEGA = 'gmail@gmail.com'
+PASS_MEGA = 'contraseña*'
